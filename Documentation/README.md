@@ -8,8 +8,6 @@ You can access the deployed APEX application via the following link:
 
 👉 [Go to Application](https://apex.oracle.com/pls/apex/r/foi2025_pjonjic/jb-modelarija-bla%C5%BEeka-d-o-o/home)
 
-> ⚠️ Note: An active session is required. If the session expires, you may need to log in again.
-
 ---
 
 ## 🌐 RESTful Web Services
