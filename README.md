@@ -48,8 +48,8 @@ Each folder reflects a specific deliverable or component of the IS development p
 
 - **Oracle APEX** – for application logic and UI (forms, reports, dashboards)
 - **SQL & ER Modeling** – for relational schema and data management
-- **Lucidchart / Draw.io** – for BPMN, ER and decomposition diagrams
-- **PDF & Markdown** – for documentation and structured project reporting
+- **Draw.io** – for BPMN, ER and decomposition diagrams
+- **PDF** – for documentation and structured project reporting
 
 ---
 
