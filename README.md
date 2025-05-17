@@ -6,7 +6,7 @@ The system models real business processes related to **procurement**, **finance*
 
 ---
 
-## 🧭 Project Purpose and Scope
+## Project Purpose and Scope
 
 The project was conducted in a team of three students with the objective of analyzing, modeling, and implementing an information system that reflects the operational workflows of a real-world manufacturing company. The system focuses on:
 
@@ -16,7 +16,7 @@ The project was conducted in a team of three students with the objective of anal
 
 ---
 
-## 📁 Folder Structure Overview
+## Folder Structure Overview
 
 | Folder          | Contents                                                                          |
 |-----------------|------------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ Each folder reflects a specific deliverable or component of the IS development p
 
 ---
 
-## 🧩 Features and Functionality
+## Features and Functionality
 
 - Management of:
   - Customers
@@ -44,7 +44,7 @@ Each folder reflects a specific deliverable or component of the IS development p
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Oracle APEX** – for application logic and UI (forms, reports, dashboards)
 - **SQL & ER Modeling** – for relational schema and data management
@@ -53,7 +53,7 @@ Each folder reflects a specific deliverable or component of the IS development p
 
 ---
 
-## 🧱 Methodology & Artifacts
+## Methodology & Artifacts
 
 The project followed core IS development phases:
 
@@ -73,7 +73,7 @@ The project followed core IS development phases:
 
 ---
 
-## 🏫 Academic Context
+## Academic Context
 
 - **Course:** Information System Development *(PIS)*
 - **Institution:** Faculty of Organization and Informatics (FOI), University of Zagreb
