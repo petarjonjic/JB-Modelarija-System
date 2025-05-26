@@ -22,7 +22,7 @@ The project was conducted in a team of three students with the objective of anal
 |-----------------|------------------------------------------------------------------------------------|
 | `Documentation` | Full project documentation (PIS - Project.pdf), including description and analysis |
 | `Diagrams`      | Visual diagrams: BPMN processes, ER models, decomposition, PK matrices             |
-| `ApexExport`    | SQL export of the Oracle APEX application                                          |
+| `AppExport`    | SQL export of the Oracle APEX application                                          |
 | `Screenshots`   | Application screenshots: forms, reports, dashboards                                |
 
 Each folder reflects a specific deliverable or component of the IS development process, from analysis to implementation.
